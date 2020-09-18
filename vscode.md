@@ -45,7 +45,7 @@ Material Icon Theme
     },
     "liveServer.settings.donotShowInfoMsg": true,
     "window.zoomLevel": 3,
-    "workbench.colorTheme": "Outrun Electric",
+   "workbench.colorTheme": "Outrun Night",
     "workbench.iconTheme": "material-icon-theme",
     "editor.parameterHints.enabled": false,
     "explorer.compactFolders": false,
